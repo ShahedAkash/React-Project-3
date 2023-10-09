@@ -13,6 +13,7 @@ const NavBar = () => {
     const Links = <>
         <li><NavLink to="/" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "btn-link text-red-500 font-bold " : "bg-none hover:bg-none hover:text-red-500"}>Home</NavLink></li>
         <li><NavLink to="/aboutUs" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "btn-link text-red-500 font-bold " : "bg-none hover:bg-none hover:text-red-500"}>About Us</NavLink></li>
+        <li><NavLink to="/aboutUs" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "btn-link text-red-500 font-bold " : "bg-none hover:bg-none hover:text-red-500"}>Gallery</NavLink></li>
         {/* <li>{user.displayName}</li> */}
     </>
 
