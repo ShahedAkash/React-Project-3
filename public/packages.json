@@ -1,0 +1,105 @@
+[
+
+    {
+        "id": 1,
+        "package_name": "Classic Elegance",
+        "description": "A timeless and sophisticated wedding package for a memorable celebration.",
+        "img":"https://i.ibb.co/4Prz0Rd/0085-CPT-Wedding-Packages-Promo-Banner-01-scaled.jpg",
+        "price": "$10,000",
+        "includes": [
+            "Venue Rental",
+            "Catering for 100 Guests",
+            "Floral Arrangements",
+            "Photography Package",
+            "Live Music Band",
+            "Wedding Cake",
+            "Dedicated Wedding Planner",
+            "Transportation for Bride and Groom"
+        ]
+    },
+    {
+        "id": 2,
+        "package_name": "Rustic Romance",
+        "description": "Capture the charm of a rustic countryside wedding with this package.",
+        "img":"https://i.ibb.co/vchDrRT/Magica-Album-Brochure-3-scaled.jpg",
+        "price": "$8,500",
+        "includes": [
+            "Barn Venue Rental",
+            "Barbecue Catering for 75 Guests",
+            "Wildflower Decorations",
+            "Photography and Videography",
+            "Country Band",
+            "Pie Dessert Bar",
+            "Event Coordinator",
+            "Horse-Drawn Carriage Ride"
+        ]
+    },
+    {
+        "id": 3,
+        "package_name": "Beach Bliss",
+        "description": "Exchange vows with the soothing sound of waves in the background.",
+        "img": "https://i.ibb.co/xf0mdDg/il-fullxfull-2160290812-mg1f.jpg",
+        "price": "$12,500",
+        "includes": [
+            "Beachfront Venue Rental",
+            "Seafood Buffet for 120 Guests",
+            "Tropical Flower Decor",
+            "Drone Photography",
+            "Steel Drum Band",
+            "Beachside Bonfire",
+            "Destination Wedding Planner",
+            "Sunset Cruise for Newlyweds"
+        ]
+    },
+    {
+        "id": 4,
+        "package_name": "Garden Enchantment",
+        "description": "An outdoor garden wedding surrounded by lush greenery and blooming flowers.",
+        "img": "https://i.ibb.co/bNf40vv/page01-2022v04-1.jpg",
+        "price": "$9,800",
+        "includes": [
+            "Botanical Garden Venue Rental",
+            "Gourmet Picnic for 80 Guests",
+            "Floral Arch and Centerpieces",
+            "Professional Photography",
+            "String Quartet",
+            "Dessert Table",
+            "Wedding Coordinator",
+            "Horse-Drawn Carriage Entrance"
+        ]
+    },
+    {
+        "id": 5,
+        "package_name": "Vintage Chic",
+        "description": "A stylish and elegant vintage-themed wedding with a touch of nostalgia.",
+        "img": "https://i.ibb.co/GVyq9Ym/Wedding-Package-Image.png",
+        "price": "$11,200",
+        "includes": [
+            "Historic Mansion Venue Rental",
+            "Vintage-Inspired Catering for 90 Guests",
+            "Antique Decorations",
+            "Vintage Photography",
+            "Jazz Band",
+            "Artisanal Cupcake Bar",
+            "Event Planner with Vintage Expertise",
+            "Vintage Car for Getaway"
+        ]
+    },
+    {
+        "id": 6,
+        "package_name": "Urban Glamour",
+        "description": "A modern and chic wedding in the heart of the city with a touch of glamour.",
+        "img": "https://i.ibb.co/7jRSRcX/images.jpg",
+        "price": "$13,500",
+        "includes": [
+            "Luxury Loft Venue Rental",
+            "Gourmet Fusion Cuisine for 150 Guests",
+            "Contemporary Floral Designs",
+            "Fashion Photography",
+            "DJ and Dance Floor",
+            "Designer Wedding Cake",
+            "Experienced Event Coordinator",
+            "Limousine Service"
+        ]
+    }
+]
