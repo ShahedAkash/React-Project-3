@@ -3,7 +3,7 @@ const DetailInfo = ({detailInfo}) => {
     const {name, famousFor, img,price} = detailInfo;
     return (
         <div className="flex justify-center items-center mb-4">
-            <div className="w-[50%]">
+            <div className="w-fill lg:w-[500px]">
                 <img className="w-full rounded-r-full" src={img}/>
             </div>
             <div className="mx-auto">

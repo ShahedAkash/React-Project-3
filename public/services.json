@@ -5,34 +5,40 @@
         "imageURL": "https://i.ibb.co/MgrkW4Z/istockphoto-1341224323-612x612.jpg",
         "details": [
             {
-                "name": "Sunset Haven Destination Weddings",
-                "famousFor": "Venue 1 is famous for its beautiful waterfront views.",
-                "price": "$13,500"
+                "name": "Ella Johnson",
+                "famousFor": "Ella Johnson holds a degree in Photography. Venue 1 is famous for its beautiful waterfront views.",
+                "price": "$13,500",
+                "img": "https://i.ibb.co/wLnfyBL/incorrect-way-to-grip-a-camera.jpg"
             },
             {
-                "name": "Tropical Dreams Beachfront Venue",
-                "famousFor": "Venue 2 is known for its historic architecture and charm.",
-                "price": "$11,500"
+                "name": "William Davis",
+                "famousFor": "William Davis is a highly skilled photographer with a degree in Fine Arts. Venue 2 is known for its historic architecture and charm.",
+                "price": "$11,500",
+                "img": "https://i.ibb.co/9Z6hm0J/depositphotos-639282390-stock-photo-photography-passion-handsome-young-photographer.webp"
             },
             {
-                "name": "Enchanted Garden Destination Venue",
-                "famousFor": "Venue 3 offers a modern and elegant atmosphere.",
-                "price": "$10,000"
+                "name": "Olivia White",
+                "famousFor": "Olivia White, a photography degree holder, captures the essence of every moment. Venue 3 offers a modern and elegant atmosphere.",
+                "price": "$10,000",
+                "img": "https://i.ibb.co/y0yVBrq/pngtree-male-photographer-with-digital-camera-in-studio-technology-real-life-lifestyle-photo-image-2.jpg"
             },
             {
-                "name": "Heritage Hills Destination Weddings",
-                "famousFor": "Venue 4 is renowned for its lush garden settings.",
-                "price": "$16,500"
+                "name": "Sophia Miller",
+                "famousFor": "Sophia Miller, a degree holder in Photography, specializes in natural light photography. Venue 4 is renowned for its lush garden settings.",
+                "price": "$16,500",
+                "img": "https://i.ibb.co/QNnyP6d/istockphoto-1136626029-170667a.jpg"
             },
             {
-                "name": "Alpine Elegance Destination Venue",
-                "famousFor": "Venue 5 is famous for its mountainous backdrop.",
-                "price": "$9500"
+                "name": "Aiden Brown",
+                "famousFor": "Aiden Brown, a professional photographer with a degree in Landscape Photography, captures stunning mountain scenes. Venue 5 is famous for its mountainous backdrop.",
+                "price": "$9,500",
+                "img": "https://i.ibb.co/wLnfyBL/incorrect-way-to-grip-a-camera.jpg"
             },
             {
-                "name": "Riverside Romance Wedding Estate",
-                "famousFor": "Venue 6 offers a picturesque beachfront setting.",
-                "price": "$99,500"
+                "name": "Charlotte Wilson",
+                "famousFor": "Charlotte Wilson, a degree holder in Wedding Photography, captures beautiful beachfront moments. Venue 6 offers a picturesque beachfront setting.",
+                "price": "$99,500",
+                "img": "https://i.ibb.co/f4DpSkL/istockphoto-664304668-170667a.webp"
             }
         ]
     },
@@ -41,35 +47,41 @@
         "serviceType": "Catering",
         "imageURL": "https://i.ibb.co/qCh4X4Y/catering1-300x300.png",
         "details": [
-            {
-                "name": "Sunset Haven Destination Weddings",
-                "famousFor": "Venue 1 is famous for its beautiful waterfront views.",
-                "price": "$10,500"
+            {      
+                "name": "Delicious Bites Catering",
+                "famousFor": "Delightful cuisines that please every palate.",
+                "price": "$10,500",
+                "img": "https://i.ibb.co/sWxYbMm/1525420451-d0336cf9177cebcc-1525420287-91b467b23e19bd82-1525420286-8a67e350833776c8-152542.jpg"
             },
             {
-                "name": "Tropical Dreams Beachfront Venue",
-                "famousFor": "Venue 2 is known for its historic architecture and charm.",
-                "price": "$5,500"
+                "name": "Culinary Creations Catering",
+                "famousFor": "Exquisite dishes crafted with passion.",
+                "price": "$5,500",
+                "img": "https://i.ibb.co/3rmgnXx/best-catering-service-for-corporate-events.jpg"
             },
             {
-                "name": "Enchanted Garden Destination Venue",
-                "famousFor": "Venue 3 offers a modern and elegant atmosphere.",
-                "price": "$95,500"
+                "name": "Gourmet Graces Catering",
+                "famousFor": "Elevate your event with our gourmet delights.",
+                "price": "$95,500",
+                "img": "https://i.ibb.co/c8Cc9x5/hire-excellence-image-jpg.webp"
             },
             {
-                "name": "Heritage Hills Destination Weddings",
-                "famousFor": "Venue 4 is renowned for its lush garden settings.",
-                "price": "$44,000"
+                "name": "Heritage Flavors Catering",
+                "famousFor": "Savor the legacy of flavors with us.",
+                "price": "$44,000",
+                "img": "https://i.ibb.co/Mk63zbD/What-Your-Catering-Company-can-do-for-you.jpg"
             },
             {
-                "name": "Alpine Elegance Destination Venue",
-                "famousFor": "Venue 5 is famous for its mountainous backdrop.",
-                "price": "$10,000"
+                "name": "Mountain Munchies Catering",
+                "famousFor": "A taste of the mountains in every bite.",
+                "price": "$10,000",
+                "img": "https://i.ibb.co/9r2yZPv/Untitled-design-4.png"
             },
             {
-                "name": "Riverside Romance Wedding Estate",
-                "famousFor": "Venue 6 offers a picturesque beachfront setting.",
-                "price": "$81,500"
+                "name": "Beachfront Bites Catering",
+                "famousFor": "Savor the sea with our beachfront cuisine.",
+                "price": "$81,500",
+                "img": "https://i.ibb.co/4j8dbm5/Caterers-in-Philadelphia.jpg"
             }
         ]
     },
@@ -78,35 +90,41 @@
         "serviceType": "Transportation",
         "imageURL": "https://i.ibb.co/qW0RVRZ/7677514.png",
         "details": [
-            {
-                "name": "Sunset Haven Destination Weddings",
-                "famousFor": "Venue 1 is famous for its beautiful waterfront views.",
-                "price": "$77,500"
+            {          
+               "name": "Luxury Limousine Service",
+                "famousFor": "Providing elegant transportation for special occasions.",
+                "price": "$77,500",
+                "img": "https://i.ibb.co/rwKphzF/1534217302414.jpg"
             },
             {
-                "name": "Tropical Dreams Beachfront Venue",
-                "famousFor": "Venue 2 is known for its historic architecture and charm.",
-                "price": "$91,100"
+                "name": "Classic Car Rentals",
+                "famousFor": "Offering vintage and classic car rentals for weddings and events.",
+                "price": "$91,100",
+                "img": "https://i.ibb.co/QdjJmjd/Horse-and-Carriage.jpg"
             },
             {
-                "name": "Enchanted Garden Destination Venue",
-                "famousFor": "Venue 3 offers a modern and elegant atmosphere.",
-                "price": "$12,500"
+                "name": "Vintage Trolley Transport",
+                "famousFor": "Transporting guests in charming vintage trolleys.",
+                "price": "$12,500",
+                "img": "https://i.ibb.co/7KGq9tR/Wedding-Transport-Moonlight-Limo-1024x683.jpg"
             },
             {
-                "name": "Heritage Hills Destination Weddings",
-                "famousFor": "Venue 4 is renowned for its lush garden settings.",
-                "price": "$65,500"
+                "name": "Elegant Horse-Drawn Carriages",
+                "famousFor": "Experiencing a fairytale entrance with our horse-drawn carriages.",
+                "price": "$65,500",
+                "img": "https://i.ibb.co/0qFWwSj/CR2-scaled.webp"
             },
             {
-                "name": "Alpine Elegance Destination Venue",
-                "famousFor": "Venue 5 is famous for its mountainous backdrop.",
-                "price": "$9500"
+                "name": "Modern Shuttle Services",
+                "famousFor": "Efficient and convenient transportation for groups and events.",
+                "price": "$9,500",
+                "img": "https://i.ibb.co/TMQvmLB/weddings-party-bus-rental-near-ft-lauderdale.jpg"
             },
             {
-                "name": "Riverside Romance Wedding Estate",
-                "famousFor": "Venue 6 offers a picturesque beachfront setting.",
-                "price": "$87,500"
+                "name": "Scenic Helicopter Rides",
+                "famousFor": "Enjoy breathtaking aerial views with our helicopter rides.",
+                "price": "$87,500",
+                "img": "https://i.ibb.co/KLzpqrR/img-9319-51-918148-161946913549892.jpg"
             }
         ]
     },
@@ -116,34 +134,40 @@
         "imageURL": "https://i.ibb.co/2SmgS9m/e0fbaa7b72817875e84be00bae1f1993.jpg",
         "details": [
             {
-                "name": "Sunset Haven Destination Weddings",
-                "famousFor": "Venue 1 is famous for its beautiful waterfront views.",
-                "price": "$9500"
+                "name": "Blossom & Bloom Floral Design",
+                "famousFor": "Creating stunning floral arrangements that elevate your event.",
+                "price": "$9,500",
+                "img": "https://i.ibb.co/ZdLgWCf/12837-wedding-flower-decoration-lin-and-jirsa-photography-seal-it-with-a-stunning-canopy-style-ceili.jpg"
             },
             {
-                "name": "Tropical Dreams Beachfront Venue",
-                "famousFor": "Venue 2 is known for its historic architecture and charm.",
-                "price": "$90,500"
+                "name": "Tropical Paradise Florists",
+                "famousFor": "Specializing in tropical and exotic floral decor for beachfront weddings.",
+                "price": "$90,500",
+                "img": "https://i.ibb.co/JKW8tTq/23817-0-wild-fleur-co-ditto-dianto.jpg"
             },
             {
-                "name": "Enchanted Garden Destination Venue",
-                "famousFor": "Venue 3 offers a modern and elegant atmosphere.",
-                "price": "$95,000"
+                "name": "Elegant Enchantment Floral Studio",
+                "famousFor": "Transforming venues with modern and elegant floral designs.",
+                "price": "$95,000",
+                "img": "https://i.ibb.co/fFDs3WF/102323-flower-wall-decor-lead.jpg"
             },
             {
-                "name": "Heritage Hills Destination Weddings",
-                "famousFor": "Venue 4 is renowned for its lush garden settings.",
-                "price": "$9500"
+                "name": "Garden Elegance Florals",
+                "famousFor": "Enhancing garden settings with lush and romantic floral arrangements.",
+                "price": "$9,500",
+                "img": "https://i.ibb.co/ZdLgWCf/12837-wedding-flower-decoration-lin-and-jirsa-photography-seal-it-with-a-stunning-canopy-style-ceili.jpg"
             },
             {
-                "name": "Alpine Elegance Destination Venue",
-                "famousFor": "Venue 5 is famous for its mountainous backdrop.",
-                "price": "$90,00"
+                "name": "Mountain Meadows Florists",
+                "famousFor": "Creating floral decor that complements mountainous backdrops.",
+                "price": "$9,000",
+                "img": "https://i.ibb.co/L0vqKjv/FEATURED-lockdown-wedding-covid-19-at-home-Photo-Credit-Tamarind-Global-Weddings-Vivaah-Wedding-Deco.webp"
             },
             {
-                "name": "Riverside Romance Wedding Estate",
-                "famousFor": "Venue 6 offers a picturesque beachfront setting.",
-                "price": "$43,500"
+                "name": "Riverside Rose Petals",
+                "famousFor": "Adding a touch of romance with picturesque beachfront floral decor.",
+                "price": "$43,500",
+                "img": "https://i.ibb.co/fFDs3WF/102323-flower-wall-decor-lead.jpg"
             }
         ]
     },
@@ -152,35 +176,41 @@
         "serviceType": "Entertainment",
         "imageURL": "https://i.ibb.co/Qm55c1G/2565018.png",
         "details": [
-            {
-                "name": "Sunset Haven Destination Weddings",
-                "famousFor": "Venue 1 is famous for its beautiful waterfront views.",
-                "price": "$9500"
+            {          
+                "name": "Harmony Sounds DJ Services",
+                "famousFor": "Creating the perfect playlist to keep the party going.",
+                "price": "$9,500",
+                "img": "https://i.ibb.co/8rkVkBS/IMG-4012a-700x457.jpg"
             },
             {
-                "name": "Tropical Dreams Beachfront Venue",
-                "famousFor": "Venue 2 is known for its historic architecture and charm.",
-                "price": "$78,900"
+                "name": "Tropical Groove Live Band",
+                "famousFor": "Bringing the rhythm and melodies to your beachfront event.",
+                "price": "$78,900",
+                "img": "https://i.ibb.co/LxTYHmv/wedding-reception-confetti.jpg"
             },
             {
-                "name": "Enchanted Garden Destination Venue",
-                "famousFor": "Venue 3 offers a modern and elegant atmosphere.",
-                "price": "$83,400"
+                "name": "Elegance Enchants Magicians",
+                "famousFor": "Amaze and entertain your guests with captivating magic tricks.",
+                "price": "$83,400",
+                "img": "https://i.ibb.co/MgHJ0YG/wedding-reception-entertainment-ideas-green-antlers-photography-38-1000x667.jpg"
             },
             {
-                "name": "Heritage Hills Destination Weddings",
-                "famousFor": "Venue 4 is renowned for its lush garden settings.",
-                "price": "$10,700"
+                "name": "Garden Serenade Acoustic Duo",
+                "famousFor": "Adding a touch of romance with live acoustic performances.",
+                "price": "$10,700",
+                "img": "https://i.ibb.co/8rkVkBS/IMG-4012a-700x457.jpg"
             },
             {
-                "name": "Alpine Elegance Destination Venue",
-                "famousFor": "Venue 5 is famous for its mountainous backdrop.",
-                "price": "$9500"
+                "name": "Mountain Melodies Instrumentalists",
+                "famousFor": "Setting the mood with mountain-inspired instrumental music.",
+                "price": "$9,500",
+                "img": "https://i.ibb.co/4WDJZXb/1565175415.jpg"
             },
             {
-                "name": "Riverside Romance Wedding Estate",
-                "famousFor": "Venue 6 offers a picturesque beachfront setting.",
-                "price": "$34,600"
+                "name": "Riverside Rhythms Dance Troupe",
+                "famousFor": "Dazzling performances that elevate your beachfront event.",
+                "price": "$34,600",
+                "img": "https://i.ibb.co/LxTYHmv/wedding-reception-confetti.jpg"
             }
         ]
     },
@@ -192,37 +222,37 @@
             {
                 "name": "Sunset Haven Destination Weddings",
                 "famousFor": "Venue 1 is famous for its beautiful waterfront views.",
-                "img":"https://i.ibb.co/m9Zkzh0/Sunset-beach-blessing-ceremony-02.jpg",
+                "img": "https://i.ibb.co/m9Zkzh0/Sunset-beach-blessing-ceremony-02.jpg",
                 "price": "$9500"
             },
             {
                 "name": "Tropical Dreams Beachfront Venue",
                 "famousFor": "Venue 2 is known for its historic architecture and charm.",
-                "img":"https://i.ibb.co/Wf5T2bD/Jivana-wedding.jpg",
+                "img": "https://i.ibb.co/Wf5T2bD/Jivana-wedding.jpg",
                 "price": "$12,600"
             },
             {
                 "name": "Enchanted Garden Destination Venue",
                 "famousFor": "Venue 3 offers a modern and elegant atmosphere.",
-                "img":"https://i.ibb.co/xLd0k3x/m8.jpg",
+                "img": "https://i.ibb.co/xLd0k3x/m8.jpg",
                 "price": "$98,100"
             },
             {
                 "name": "Heritage Hills Destination Weddings",
                 "famousFor": "Venue 4 is renowned for its lush garden settings.",
-                "img":"https://i.ibb.co/fD0mZFM/0-Sc-IBMNu-NRf1-F3-Ks.jpg",
+                "img": "https://i.ibb.co/fD0mZFM/0-Sc-IBMNu-NRf1-F3-Ks.jpg",
                 "price": "$92,400"
             },
             {
                 "name": "Alpine Elegance Destination Venue",
                 "famousFor": "Venue 5 is famous for its mountainous backdrop.",
-                "img":"https://i.ibb.co/kxjBWq6/Wedding-Packages-Main-Page.jpg",
+                "img": "https://i.ibb.co/kxjBWq6/Wedding-Packages-Main-Page.jpg",
                 "price": "$89,500"
             },
             {
                 "name": "Riverside Romance Wedding Estate",
                 "famousFor": "Venue 6 offers a picturesque beachfront setting.",
-                "img":"https://i.ibb.co/vJNsbBD/Fall-Wedding-NC-e1688623513711.png",
+                "img": "https://i.ibb.co/vJNsbBD/Fall-Wedding-NC-e1688623513711.png",
                 "price": "$57,500"
             }
         ]

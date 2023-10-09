@@ -4,6 +4,7 @@ import { AuthContext } from "../../Providers/AuthProvider";
 
 const NavBar = () => {
     const { user, logOut } = useContext(AuthContext);
+    console.log(user)
 
     const handelSingOut = () => {
         logOut()
@@ -11,8 +12,8 @@ const NavBar = () => {
 
     const Links = <>
         <li><NavLink to="/" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "btn-link text-red-500 font-bold " : "bg-none hover:bg-none hover:text-red-500"}>Home</NavLink></li>
-        <li><NavLink to="/wedding_places" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "btn-link text-red-500 font-bold " : "bg-none hover:bg-none hover:text-red-500"}>Wedding Places</NavLink></li>
         <li><NavLink to="/aboutUs" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "btn-link text-red-500 font-bold " : "bg-none hover:bg-none hover:text-red-500"}>About Us</NavLink></li>
+        {/* <li>{user.displayName}</li> */}
     </>
 
     return (

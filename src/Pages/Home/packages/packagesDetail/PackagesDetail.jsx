@@ -8,15 +8,16 @@ const PackagesDetail = () => {
 
     return (
         <div className="w-[90%] mx-auto">
-            <div className="rounded-box">
+            <div className="rounded-box w-full">
                 <img className="rounded-box" src={selectedPackage.img} alt="" />
             </div>
-            <div className=" my-10">
-                <h2>{selectedPackage.package_name}</h2>
-                <p>{selectedPackage.description}</p>
-                <p>{selectedPackage.price}</p>
+            <div className=" my-20 space-y-2">
+                <h2 className="text-2xl font-bold">{selectedPackage.package_name}</h2>
+                <p className="">{selectedPackage.description}</p>
+                <p className="font-semibold">{selectedPackage.price}</p>
+                <p>Includes:-</p>
                 {
-                    selectedPackage.includes.map(include=> <li className="list-decimal">{include}</li>)
+                    selectedPackage.includes.map(include=> <li className="list-decimal text-xs">{include}</li>)
                 }
 
             </div>

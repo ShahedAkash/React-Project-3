@@ -13,12 +13,15 @@ import AuthProvider from './Providers/AuthProvider';
 import DetailService from './Pages/Home/DetailService/DetailService';
 import PrivateRoute from './route/PrivateRoute';
 import PackagesDetail from './Pages/Home/packages/packagesDetail/PackagesDetail';
+import ErrorPage from './Pages/ErrorPage/ErrorPage'
+import AboutUs from './Pages/aboutUs/AboutUs';
 
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: "/",
@@ -42,6 +45,10 @@ const router = createBrowserRouter([
       {
         path: "/signup",
         element: <SignUp></SignUp>
+      },
+      {
+        path:'/aboutus',
+        element:<AboutUs></AboutUs>
       }
     ]
   },
