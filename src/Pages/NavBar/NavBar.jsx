@@ -1,10 +1,9 @@
 import { useContext } from "react";
-import { Link, NavLink} from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import { AuthContext } from "../../Providers/AuthProvider";
 
 const NavBar = () => {
     const { user, logOut } = useContext(AuthContext);
-    console.log(user)
 
     const handelSingOut = () => {
         logOut()
@@ -14,7 +13,7 @@ const NavBar = () => {
         <li><NavLink to="/" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "btn-link text-red-500 font-bold " : "bg-none hover:bg-none hover:text-red-500"}>Home</NavLink></li>
         <li><NavLink to="/aboutUs" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "btn-link text-red-500 font-bold " : "bg-none hover:bg-none hover:text-red-500"}>About Us</NavLink></li>
         <li><NavLink to="/aboutUs" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "btn-link text-red-500 font-bold " : "bg-none hover:bg-none hover:text-red-500"}>Gallery</NavLink></li>
-        {/* <li>{user.displayName}</li> */}
+
     </>
 
     return (
@@ -41,7 +40,15 @@ const NavBar = () => {
                 </ul>
                 {
                     user ?
-                        <button onClick={handelSingOut} className="bg-transparent border-none">Sign out</button>
+                        <div className="dropdown">
+                            <label tabIndex={0} className="btn btn-ghost">
+                                <samp>{user?.displayName ? user.displayName : <button onClick={handelSingOut} className="bg-transparent border-none">Sign out</button>} </samp>
+                            </label>
+                            <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                                <li><button onClick={handelSingOut} className="bg-transparent border-none">Sign out</button></li>
+                            </ul>
+                        </div>
+                        // 
                         :
                         <Link to={"/logIn"} className="bg-transparent border-non">Log In</Link>
                 }
