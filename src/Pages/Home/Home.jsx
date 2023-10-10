@@ -10,7 +10,7 @@ const Home = () => {
 
     const [packages, setPackages] = useState([]);
     useEffect(() => {
-        fetch("/public/packages.json")
+        fetch("/packages.json")
             .then(rsc => rsc.json())
             .then(data => setPackages(data))
     }, [])

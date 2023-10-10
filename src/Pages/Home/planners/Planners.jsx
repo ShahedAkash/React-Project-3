@@ -43,13 +43,13 @@ const Planners = () => {
             onSlideChange={() => console.log('slide change')}
             onSwiper={(swiper) => console.log(swiper)}
         >
-            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box' src={img1} alt="" /></SwiperSlide>
-            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box'  src={img2} alt="" /></SwiperSlide>
-            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box' src={img2} alt="" /></SwiperSlide>
-            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box' src={img3} alt="" /></SwiperSlide>
-            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box' src={img4} alt="" /></SwiperSlide>
-            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box' src={img5} alt="" /></SwiperSlide>
-            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box' src={img6} alt="" /></SwiperSlide>
+            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box opacity-70 contrast-200' src={img1} alt="" /> <h2 className='text-center text-xl  font-bold -mt-14'>Shahed Akash</h2></SwiperSlide>
+            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box opacity-70 contrast-200'  src={img2} alt=""/> <h2 className='text-center text-xl  font-bold -mt-14'>Shahed Akash</h2></SwiperSlide>
+            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box opacity-70 contrast-200' src={img2} alt="" /> <h2 className='text-center text-xl  font-bold -mt-14'>Shahed Akash</h2></SwiperSlide>
+            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box opacity-70 contrast-200' src={img3} alt="" /> <h2 className='text-center text-xl  font-bold -mt-14'>Shahed Akash</h2></SwiperSlide>
+            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box opacity-70 contrast-200' src={img4} alt="" /> <h2 className='text-center text-xl  font-bold -mt-14'>Shahed Akash</h2></SwiperSlide>
+            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box opacity-70 contrast-200' src={img5} alt="" /> <h2 className='text-center text-xl  font-bold -mt-14'>Shahed Akash</h2></SwiperSlide>
+            <SwiperSlide className='shadow-inner'><img className='w-full h-[60vh] rounded-box opacity-70 contrast-200' src={img6} alt="" /> <h2 className='text-center text-xl  font-bold -mt-14'>Shahed Akash</h2></SwiperSlide>
             ...
         </Swiper>
     );

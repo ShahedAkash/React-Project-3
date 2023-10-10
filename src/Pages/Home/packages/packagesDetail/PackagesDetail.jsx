@@ -4,7 +4,7 @@ const PackagesDetail = () => {
     const packages = useLoaderData();
     const { id } = useParams();
     const intId = parseInt(id);
-    const selectedPackage = packages.find(selectedPackage => selectedPackage.id === intId);
+    const selectedPackage = packages.find(selectedPackage => selectedPackage.id == intId);
 
     return (
         <div className="w-[90%] mx-auto">
